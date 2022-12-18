@@ -32,7 +32,7 @@
             "url": "https://raw.fastgit.org/2hacc/TVBox/main/tvbox",
             "name": "🚀二哈"
         },
-
+{
             "url": "https://gitee.com/JIUSUIAN/jiusui/raw/master/main/sjb.txt",
             "name":"世界杯"}
     ]
