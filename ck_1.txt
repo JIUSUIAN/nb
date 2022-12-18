@@ -1,0 +1,39 @@
+{
+    "urls": [
+        {
+            "url": "https://gitee.com/JIUSUIAN/jiusui/raw/master/main/JK11.json",
+            "name": "🔔JIUSUI 壹号"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "🚀巧记线路"
+        },
+        {
+            "url": "http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt",
+            "name": "🚀公益线路"
+        },
+        {
+            "url": "http://tvbox.lengniuge.eu.org/ts",
+            "name": "🚀冷牛哥线路"
+        },
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "🚀小苹果线路"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "🚀老刘备线路"
+        },
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🚀吾爱线路"
+        },
+         {
+            "url": "https://raw.fastgit.org/2hacc/TVBox/main/tvbox",
+            "name": "🚀二哈"
+        },
+
+            "url": "https://gitee.com/JIUSUIAN/jiusui/raw/master/main/sjb.txt",
+            "name":"世界杯"}
+    ]
+}
