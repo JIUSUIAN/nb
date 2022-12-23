@@ -3,26 +3,10 @@
         {
             "url": "https://gitee.com/JIUSUIAN/jiusui/raw/master/main/JK11.json",
             "name": "🔔JIUSUI 壹号"
-        },
-        {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "🚀巧记线路"
-        },
-        {
-            "url": "http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt",
-            "name": "🚀公益线路"
-        },
-        {
-            "url": "http://tvbox.lengniuge.eu.org/ts",
-            "name": "🚀冷牛哥线路"
-        },
+     },
         {
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "name": "🚀小苹果线路"
-        },
-        {
-            "url": "https://raw.liucn.cc/box/m.json",
-            "name": "🚀老刘备线路"
         },
         {
             "url": "http://52bsj.vip:98/wuai",
@@ -34,6 +18,134 @@
         },
 {
             "url": "https://gitee.com/JIUSUIAN/jiusui/raw/master/main/sjb.txt",
-            "name":"世界杯"}
+            "name":"世界杯"},
+             {
+            "url": "http://byyds.top/w.txt",
+            "name": "🐹BYYDS线路"
+        },
+        {
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+            "name": "🐹分享者线路"
+        },
+        {
+            "url": "https://ju.binghe.ga/4.txt",
+            "name": "🐹冰河线路"
+        },
+        {
+            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "🐹云星家庭"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+            "name": "🐹云星哔哩"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+            "name": "🐹云星阿里"
+        },
+        {
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+            "name": "🐹agit/abc线路"
+        },
+        {
+            "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
+            "name": "🐹zzz1线路"
+        },
+        {
+            "url": "http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
+            "name": "🐹小马线路"
+        },
+                {
+            "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
+            "name": "🐹蚂蚁论坛线路"
+        },
+                {
+            "url": "https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+            "name": "🐹网上新找的"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "菜妮丝"
+        },
+        {
+            "url": "http://饭太硬.ga/x/o.json",
+            "name": "饭太硬"
+        }, 
+        {
+            "url": "https://hutool.ml/tang",
+            "name": "唐三"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "俊于"
+        },
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "name": "霜辉月明"
+        },
+        {
+            "url": "https://xn--m7r412advb92j21st65a.tk/pz.json",
+            "name": "神器"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "巧技"
+        },
+        {
+            "url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
+            "name": "潇洒"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "name": "月光宝盒"
+        },
+        {
+            "url": "http://刚刚.live/猫",
+            "name": "刚刚"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
+            "name": "哔哩哔哩"
+        },
+        {
+            "url": "https://kebedd69.github.io/TVbox-interface/%E7%94%9C%E8%9C%9C.json",
+            "name": "甜蜜"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "云星日记"
+        },
+        {
+            "url": "http://miaotvs.cn/osc",
+            "name": "太阳"
+        },
+        {
+            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+            "name": "老刘备"
+        },
+        {
+            "url": "http://js.134584.xyz/json/pp87.json",
+            "name": "白嫖"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0",
+            "name": "兽爪"
+        },
+        {
+            "url": "http://www.dmtv.ml/mao/single.json",
+            "name": "乱世"
+        },
+        {
+            "url": "http://101.34.67.237/config/3",
+            "name": "道长"
+        },
+        {
+            "url": "https://yydsys.top/duo/v.json",
+            "name": "应用多多"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "FongMi"
+        }
     ]
 }
