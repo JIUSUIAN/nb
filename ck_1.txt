@@ -21,7 +21,8 @@
         },
 {
             "url": "https://gitee.com/JIUSUIAN/jiusui/raw/master/main/sjb.txt",
-            "name":"世界杯},
+            "name":"世界杯"
+            },
              {
             "url": "http://byyds.top/w.txt",
             "name": "BYYDS"
