@@ -29,39 +29,20 @@
         },
         {
             "url": "https://ju.binghe.ga/4.txt",
-            "name": "🐹冰河线路"
-        },
-        {
-            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-            "name": "🐹云星家庭"
-        },
-        {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
-            "name": "🐹云星哔哩"
-        },
-        {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
-            "name": "🐹云星阿里"
+            "name": "冰河"
         },
         {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-            "name": "🐹agit/abc线路"
+            "name": "agit/abc"
         },
-        {
-            "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
-            "name": "🐹zzz1线路"
-        },
+        
         {
             "url": "http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
-            "name": "🐹小马线路"
+            "name": "小马"
         },
                 {
             "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
-            "name": "🐹蚂蚁论坛线路"
-        },
-                {
-            "url": "https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
-            "name": "🐹网上新找的"
+            "name": "蚂蚁论坛"
         },
         {
             "url": "http://肥猫.love",
@@ -154,6 +135,10 @@
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "FongMi"
+        },        
+        {
+            "url": "https://app.easybox.vip/dy",
+            "name": "easybox线路"
         }
     ]
 }
