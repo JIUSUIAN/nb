@@ -7,6 +7,9 @@
         {
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "name": "小苹果"
+        },{
+            "url": "https://yydsys.top/duo/v.json",
+            "name": "应用多多"
         },
         {
             "url": "http://52bsj.vip:98/wuai",
@@ -127,10 +130,6 @@
         {
             "url": "http://101.34.67.237/config/3",
             "name": "道长"
-        },
-        {
-            "url": "https://yydsys.top/duo/v.json",
-            "name": "应用多多"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
